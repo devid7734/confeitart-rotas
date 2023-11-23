@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 8rem;
+
+}
+.perfil{
+    background-color: rgb(169, 107, 227);
+    border-radius: 20px;
+    
+    }
+    
+    .one{
+        background-color: white;
+    border-radius: 20px;
+    }
+    .two{
+        background-color: white;
+    }
+    .three{
+        background-color: white;
+    }
+    .four{
+        background-color: white;
+    }
+    .five{
+        background-color: white;
+    }
+    .six{
+        background-color: white;
+    }
